@@ -1,0 +1,59 @@
+
+body{
+    background-color: lightgrey;
+    border-style: none;
+
+}
+#container{
+  margin: 10px;
+  text-align: center;
+
+
+
+
+
+}
+
+    
+
+button {
+    background-color: #C0C0C0;
+    width: 20%;
+    
+    border-color: #C0C0C0;
+    border-width:  50%;
+    border-top-left-radius: 15%;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+
+
+}
+
+a{
+    background: none;
+    color: #000;
+
+}
+
+
+rect{
+    width: 100%;
+    height: 100%;
+    stroke: #000;
+    stroke-width: 10px;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    transition:  .6s ease all;
+
+
+}
+rect{
+    stroke-dashoffset: 0;
+}
+
+
